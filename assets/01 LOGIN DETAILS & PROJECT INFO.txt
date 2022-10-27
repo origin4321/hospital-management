@@ -1,0 +1,12 @@
+
+
+**Database Name: ohmsphp**
+
+**Developed by Edwin nduro**
+**Admin Login Details**
+
+Username: admin
+Password: Password@123
+
+**Making an appointment creates account for the patient**
+
